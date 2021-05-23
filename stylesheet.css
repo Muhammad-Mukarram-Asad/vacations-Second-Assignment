@@ -1,0 +1,122 @@
+body{
+	background-color: #F8F9FE;
+}
+
+.Container{
+	/*background-color: #F8F9FE;*/
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+
+}
+h1{
+	color: grey;
+	font-size: 25px;
+	justify-content: center;
+}
+p{
+	font-size: 15px;
+	color:grey;
+	margin: 0;
+
+}
+
+.Boxes{
+	/*background-color: #F8F9FE;*/
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	padding: 10px 15px;
+	margin: 8px;
+	
+}
+.Box1{
+	background-color: white;
+	display: flex;
+    align-items: center;
+    flex-direction: column;
+    height: 26vh;
+    width: 50vh;
+
+}
+img{
+	height: 40px;
+	width: 40px;
+}
+.H2{
+	color: grey;
+	font-size: 20px;
+}
+.P{
+	color: grey;
+	font-weight: 15px;
+}
+#button1{
+	color:  blue;
+    border-color: blue;
+    justify-content: center;
+    background-color: white;
+    padding: 5px 5px;
+    margin: 5px;
+}
+
+
+.Box2{
+	background-color: white;
+	display: flex;
+    align-items: center;
+    flex-direction: column;
+    height: 26vh;
+    width: 50vh;
+
+}
+#img2{
+	height: 40px;
+	width: 40px;
+}
+.H2{
+	color: grey;
+	font-size: 20px;
+}
+.P{
+	color: grey;
+	font-weight: 15px;
+}
+#button2{
+	color:  white;
+    border-color: blue;
+    justify-content: center;
+    background-color: blue;
+    padding: 5px 5px;
+    margin: 5px;
+}
+
+.Box3{
+	background-color: white;
+	display: flex;
+    align-items: center;
+    flex-direction: column;
+    height: 26vh;
+    width: 50vh;
+
+}
+#img3{
+	height: 40px;
+	width: 40px;
+}
+.H2{
+	color: grey;
+	font-size: 20px;
+}
+.P{
+	color: grey;
+	font-weight: 15px;
+}
+#button3{
+	color:  blue;
+    border-color: blue;
+    justify-content: center;
+    background-color: white;
+    padding: 5px 5px;
+    margin: 5px;
+}
